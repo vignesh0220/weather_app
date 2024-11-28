@@ -1,5 +1,3 @@
-## The Odin Project
-
 # Project: Weather app
 
 **Live version** of the site can be found [here](https://vignesh0220.github.io/weather_app/)
